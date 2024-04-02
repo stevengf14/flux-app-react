@@ -1,5 +1,6 @@
 import "./ButtonBox.css";
 import * as ColorAppActions from "../actions/ColorappActions";
+import colorappStore from "../stores/ColorappStore";
 
 function ButtonBox() {
   return (
